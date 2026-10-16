@@ -1,0 +1,5 @@
+numpy>=1.24
+pandas>=2.0
+pyarrow>=12
+# optional, for video-based detection (blur / background motion)
+imageio-ffmpeg>=0.4.9
